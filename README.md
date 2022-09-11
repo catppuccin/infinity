@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/Xurdejl/infinity-for-reddit/stargazers"><img src="https://img.shields.io/github/stars/Xurdejl/infinity-for-reddit?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/Xurdejl/infinity-for-reddit/issues"><img src="https://img.shields.io/github/issues/Xurdejl/infinity-for-reddit?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/Xurdejl/infinity-for-reddit/graphs/contributors"><img src="https://img.shields.io/github/contributors/Xurdejl/infinity-for-reddit?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/infinity/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/infinity?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/infinity/issues"><img src="https://img.shields.io/github/issues/catppuccin/infinity?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/infinity/graphs/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/infinity?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## Usage
 
-1. Copy one of the themes in your clipboard **->** [Latte](https://raw.githubusercontent.com/Xurdejl/infinity-for-reddit/main/themes/catppuccin-latte.json), [Frappé](https://raw.githubusercontent.com/Xurdejl/infinity-for-reddit/main/themes/catppuccin-frappe.json), [Macchiato](https://raw.githubusercontent.com/Xurdejl/infinity-for-reddit/main/themes/catppuccin-macchiato.json), [Mocha](https://raw.githubusercontent.com/Xurdejl/infinity-for-reddit/main/themes/catppuccin-mocha.json).
+1. Copy one of the themes in your clipboard **->** [Latte](https://raw.githubusercontent.com/catppuccin/infinity/main/themes/catppuccin-latte.json), [Frappé](https://raw.githubusercontent.com/catppuccin/infinity/main/themes/catppuccin-frappe.json), [Macchiato](https://raw.githubusercontent.com/catppuccin/infinity/main/themes/catppuccin-macchiato.json), [Mocha](https://raw.githubusercontent.com/catppuccin/infinity/main/themes/catppuccin-mocha.json).
 2. Open the app's settings, then go to `Themes > Manage Themes`.
 3. Tap on the `+` icon in the bottom corner and select `Import Theme`.
 4. Enable your theme by seting it as *Dark Theme* or *Light Theme*.
