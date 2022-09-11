@@ -17,10 +17,10 @@
 
 ## Usage
 
-1. Copy one of the themes in your clipboard **->** [Latte](https://raw.githubusercontent.com/catppuccin/infinity/main/themes/catppuccin-latte.json), [Frappé](https://raw.githubusercontent.com/catppuccin/infinity/main/themes/catppuccin-frappe.json), [Macchiato](https://raw.githubusercontent.com/catppuccin/infinity/main/themes/catppuccin-macchiato.json), [Mocha](https://raw.githubusercontent.com/catppuccin/infinity/main/themes/catppuccin-mocha.json).
+1. Copy one of the themes in your clipboard **→** [Latte](https://raw.githubusercontent.com/catppuccin/infinity/main/themes/catppuccin-latte.json), [Frappé](https://raw.githubusercontent.com/catppuccin/infinity/main/themes/catppuccin-frappe.json), [Macchiato](https://raw.githubusercontent.com/catppuccin/infinity/main/themes/catppuccin-macchiato.json), [Mocha](https://raw.githubusercontent.com/catppuccin/infinity/main/themes/catppuccin-mocha.json).
 2. Open the app's settings, then go to `Themes > Manage Themes`.
 3. Tap on the `+` icon in the bottom corner and select `Import Theme`.
-4. Enable your theme by seting it as *Dark Theme* or *Light Theme*.
+4. Enable your theme by setting it as *Dark Theme* or *Light Theme*.
 
 ## 💝 Thanks to
 
