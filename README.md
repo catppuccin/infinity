@@ -22,6 +22,11 @@
 3. Tap on the `+` icon in the bottom corner and select `Import Theme`.
 4. Enable your theme by setting it as *Dark Theme* or *Light Theme*.
 
+## 🙋 FAQ
+
+-	Q: **_"I can't install the theme! Pop up shows `Cannot find data in clipboard`"_**\
+	A: This currently is a bug on [Infinity's side](https://github.com/Docile-Alligator/Infinity-For-Reddit/issues/1030) that can be simply fixed by pasting the contents of your theme in a notes app or similar, then copying the contents from there.
+
 ## 💝 Thanks to
 
 - [Xurdejl](https://github.com/Xurdejl)
