@@ -37,7 +37,7 @@
     "isChangeStatusBarIconColorAfterToolbarCollapsedInImmersiveInterface": false,
     "isDarkTheme": false,
     "isLightNavBar": false,
-    "isLightStatusBar": false,
+    "isLightStatusBar": true,
     "isLightTheme": true,
     "linkColor": -2323848,
     "lockedIconTint": -105461,
